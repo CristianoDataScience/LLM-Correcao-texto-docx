@@ -1,0 +1,25 @@
+# Ocultar o arquivo de variáveis de ambiente
+.env
+outputs
+temp
+uploads
+
+
+# Ocultar o diretório do ambiente virtual
+venv/
+
+# Ocultar arquivos de logs
+*.log
+
+# Ocultar configurações específicas do IDE
+.vscode/
+.idea/
+
+# Ocultar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ocultar arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
